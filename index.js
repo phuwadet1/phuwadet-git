@@ -4,3 +4,6 @@ function feature1(){
 function feature2(){
     alert('test2');
 }
+function feature3(){
+    alert('test3');
+}
